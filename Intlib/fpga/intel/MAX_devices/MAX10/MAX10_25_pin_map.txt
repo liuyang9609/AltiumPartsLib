@@ -1,0 +1,492 @@
+1A              IO DIFFIO_RX_L1n                                Low_Speed       F5
+1A              IO DIFFIO_RX_L1p                                Low_Speed       F4
+1A              IO DIFFIO_RX_L2n                                Low_Speed       E4
+1A              IO DIFFIO_RX_L2p                                Low_Speed       E3
+1A              IO DIFFIO_RX_L3n                                Low_Speed       J8
+1A              IO DIFFIO_RX_L3p                                Low_Speed       J9
+1A              IO DIFFIO_RX_L4n                                Low_Speed       G4
+1A              IO DIFFIO_RX_L4p                                Low_Speed       F3
+1A              IO DIFFIO_RX_L5n                                Low_Speed       J4
+1A              IO DIFFIO_RX_L5p                                Low_Speed       H3
+1A              IO DIFFIO_RX_L6n                                Low_Speed       H4
+1A              IO DIFFIO_RX_L6p                                Low_Speed       G3
+1A              IO DIFFIO_RX_L7n                                Low_Speed       K5
+1A              IO DIFFIO_RX_L7p                                Low_Speed       K6
+1A              IO DIFFIO_RX_L8n                                Low_Speed       K4
+1A              IO DIFFIO_RX_L8p                                Low_Speed       J3
+                VCCINT                                                          J7
+                VCCIO1A                                                         L6
+                VCCIO1A                                                         K7
+                GND                                                             J6
+                ANAIN2                                                          J5
+                GND                                                             J2
+                NC                                                              K3
+                GND                                                             E2
+    
+1B              IO DIFFIO_RX_L9n                                Low_Speed       K8
+1B              IO JTAGEN DIFFIO_RX_L9p                         Low_Speed       K9
+1B              IO DIFFIO_RX_L10n                               Low_Speed       D3
+1B              IO DIFFIO_RX_L10p                               Low_Speed       D2
+1B              IO TMS DIFFIO_RX_L11n                           Low_Speed       H2
+1B              IO TCK DIFFIO_RX_L11p                           Low_Speed       G2
+1B              IO VREFB1N0                                                     C1
+1B              IO                                                              D1
+1B              IO TDI DIFFIO_RX_L12n                           Low_Speed       L4
+1B              IO TDO DIFFIO_RX_L12p                           Low_Speed       M5
+1B              IO DIFFIO_RX_L13n                               Low_Speed       K2
+1B              IO DIFFIO_RX_L13p                               Low_Speed       L2
+1B              IO DIFFIO_RX_L14n                               Low_Speed       L8
+1B              IO DIFFIO_RX_L14p                               Low_Speed       L9
+1B              IO DIFFIO_RX_L15n                               Low_Speed       E1
+1B              IO DIFFIO_RX_L15p                               Low_Speed       F2
+1B              IO DIFFIO_RX_L16n                               Low_Speed       H1
+1B              IO DIFFIO_RX_L16p                               Low_Speed       J1
+1B              IO DIFFIO_RX_L17n                               Low_Speed       G1
+1B              IO DIFFIO_RX_L17p                               Low_Speed       F1
+1B              IO DIFFIO_RX_L18n                               Low_Speed       M4
+1B              IO DIFFIO_RX_L18p                               Low_Speed       M3
+1B              IO DIFFIO_RX_L19n                               Low_Speed       K1
+1B              IO DIFFIO_RX_L19p                               Low_Speed       L1
+                VCCIO1B                                                         M6
+                VCCIO1B                                                         L7
+                GND                                                             K12
+                GND                                                             K10
+                GND                                                             L5
+                GND                                                             D4
+                VCC                                                             L12
+                VCC                                                             L11
+                VCC                                                             L10
+                VCC                                                             K13
+    
+2               IO CLK0n DIFFIO_RX_L20n                         High_Speed      N4
+2               IO CLK0p DIFFIO_RX_L20p                         High_Speed      N5
+2               IO DIFFIO_RX_L21n                               High_Speed      P4
+2               IO DIFFIO_RX_L21p                               High_Speed      P5
+2               IO CLK1n DIFFIO_RX_L22n                         High_Speed      M8
+2               IO CLK1p DIFFIO_RX_L22p                         High_Speed      M9
+2               IO DIFFIO_RX_L23n                               High_Speed      N3
+2               IO DIFFIO_RX_L23p                               High_Speed      N2
+2               IO DPCLK0 DIFFIO_RX_L24n                        High_Speed      P3
+2               IO DPCLK1 DIFFIO_RX_L24p                        High_Speed      R3
+2               IO VREFB2N0                                                     M2
+2               IO                                                              M1
+2               IO DIFFIO_RX_L25n                               High_Speed      R4
+2               IO DIFFIO_RX_L25p                               High_Speed      R5
+2               IO DIFFIO_RX_L26n                               High_Speed      T1
+2               IO DIFFIO_RX_L26p                               High_Speed      T2
+2               IO DIFFIO_RX_L27n                               High_Speed      N8
+2               IO DIFFIO_RX_L27p                               High_Speed      N9
+2               IO DIFFIO_RX_L28n                               High_Speed      P1
+2               IO DIFFIO_RX_L28p                               High_Speed      N1
+2               IO DIFFIO_RX_L29n                               High_Speed      T3
+2               IO DIFFIO_RX_L29p                               High_Speed      U2
+2               IO DIFFIO_RX_L30n                               High_Speed      U1
+2               IO DIFFIO_RX_L30p                               High_Speed      V1
+2               IO DIFFIO_RX_L31n                               High_Speed      U4
+2               IO DIFFIO_RX_L31p                               High_Speed      U5
+2               IO DIFFIO_RX_L32n                               High_Speed      U3
+2               IO DIFFIO_RX_L32p                               High_Speed      V3
+2               IO DIFFIO_RX_L33n                               High_Speed      P8
+2               IO DIFFIO_RX_L33p                               High_Speed      R7
+2               IO DIFFIO_RX_L34n                               High_Speed      W1
+2               IO DIFFIO_RX_L34p                               High_Speed      W2
+2               IO PLL_L_CLKOUTn DIFFIO_RX_L35n                 High_Speed      T5
+2               IO PLL_L_CLKOUTp DIFFIO_RX_L35p                 High_Speed      T6
+2               IO DIFFIO_RX_L36n                               High_Speed      R1
+2               IO DIFFIO_RX_L36p                               High_Speed      R2
+                VCCA1                                                           R8
+                VCCIO2                                                          R6
+                VCCIO2                                                          P7
+                VCCIO2                                                          N7
+                VCCIO2                                                          N6
+                VCC                                                             N10
+                GND                                                             T4
+                GND                                                             P6
+                GND                                                             M7
+                GND                                                             V2
+                GND                                                             P2
+                GND                                                             N11
+                GND                                                             T8
+                VCC                                                             N12
+                VCCD_PLL1                                                       T7
+    
+3               IO DIFFIO_TX_RX_B1n                             High_Speed      W5
+3               IO DIFFIO_TX_RX_B1p                             High_Speed      W6
+3               IO DIFFIO_RX_B2n                                High_Speed      V4
+3               IO DIFFIO_RX_B2p                                High_Speed      V5
+3               IO DIFFIO_TX_RX_B3n                             High_Speed      U6
+3               IO DIFFIO_TX_RX_B3p                             High_Speed      U7
+3               IO DIFFIO_RX_B4n                                High_Speed      Y1
+3               IO DIFFIO_RX_B4p                                High_Speed      Y2
+3               IO DIFFIO_TX_RX_B5n                             High_Speed      W4
+3               IO DIFFIO_TX_RX_B5p                             High_Speed      W3
+3               IO DIFFIO_RX_B6n                                High_Speed      AA1
+3               IO DIFFIO_RX_B6p                                High_Speed      AA2
+3               IO DIFFIO_TX_RX_B7n                             High_Speed      V7
+3               IO DIFFIO_TX_RX_B7p                             High_Speed      V8
+3               IO DIFFIO_RX_B8n                                High_Speed      Y5
+3               IO DIFFIO_RX_B8p                                High_Speed      Y6
+3               IO DIFFIO_TX_RX_B9n                             High_Speed      R9
+3               IO DIFFIO_TX_RX_B9p                             High_Speed      P9
+3               IO DIFFIO_RX_B10n                               High_Speed      Y7
+3               IO DIFFIO_RX_B10p                               High_Speed      Y8
+3               IO DIFFIO_TX_RX_B11n                            High_Speed      W9
+3               IO DIFFIO_TX_RX_B11p                            High_Speed      W10
+3               IO DIFFIO_RX_B12n                               High_Speed      AB2
+3               IO DIFFIO_RX_B12p                               High_Speed      AB3
+3               IO DIFFIO_TX_RX_B13n                            High_Speed      W7
+3               IO DIFFIO_TX_RX_B13p                            High_Speed      W8
+3               IO DIFFIO_RX_B14n                               High_Speed      Y3
+3               IO DIFFIO_RX_B14p                               High_Speed      Y4
+3               IO DIFFIO_TX_RX_B15n                            High_Speed      R10
+3               IO DIFFIO_TX_RX_B15p                            High_Speed      P10
+3               IO VREFB3N0                                                     AA3
+3               IO                                                              AB4
+3               IO DIFFIO_TX_RX_B16n                            High_Speed      AA6
+3               IO DIFFIO_TX_RX_B16p                            High_Speed      AA7
+3               IO DIFFIO_RX_B17n                               High_Speed      AA5
+3               IO DIFFIO_RX_B17p                               High_Speed      AB5
+3               IO CLK6n DIFFIO_TX_RX_B18n                      High_Speed      V9
+3               IO CLK6p DIFFIO_TX_RX_B18p                      High_Speed      V10
+3               IO DIFFIO_RX_B19n                               High_Speed      AB6
+3               IO DIFFIO_RX_B19p                               High_Speed      AB7
+3               IO CLK7n DIFFIO_TX_RX_B20n                      High_Speed      R11
+3               IO CLK7p DIFFIO_TX_RX_B20p                      High_Speed      P11
+3               IO DIFFIO_RX_B21n                               High_Speed      AA8
+3               IO DIFFIO_RX_B21p                               High_Speed      AB8
+3               IO DIFFIO_TX_RX_B22n                            High_Speed      Y10
+3               IO DIFFIO_TX_RX_B22p                            High_Speed      AA10
+3               IO DIFFIO_RX_B23n                               High_Speed      AA9
+3               IO DIFFIO_RX_B23p                               High_Speed      AB9
+                VCCIO3                                                          U9
+                VCCIO3                                                          U8
+                VCCIO3                                                          T9
+                VCCIO3                                                          T11
+                VCCIO3                                                          T10
+                GND                                                             AA4
+                GND                                                             AB1
+                GND                                                             V6
+                GND                                                             Y9
+    
+4               IO DIFFIO_TX_RX_B24n                            High_Speed      V11
+4               IO DIFFIO_TX_RX_B24p                            High_Speed      V12
+4               IO DIFFIO_RX_B25n                               High_Speed      W11
+4               IO DIFFIO_RX_B25p                               High_Speed      Y11
+4               IO DIFFIO_TX_RX_B26n                            High_Speed      R12
+4               IO DIFFIO_TX_RX_B26p                            High_Speed      P12
+4               IO DIFFIO_RX_B27n                               High_Speed      AB10
+4               IO DIFFIO_RX_B27p                               High_Speed      AB11
+4               IO DIFFIO_TX_RX_B28n                            High_Speed      AA11
+4               IO DIFFIO_TX_RX_B28p                            High_Speed      AA12
+4               IO DIFFIO_RX_B29n                               High_Speed      AB12
+4               IO DIFFIO_RX_B29p                               High_Speed      AB13
+4               IO DIFFIO_TX_RX_B30n                            High_Speed      V13
+4               IO DIFFIO_TX_RX_B30p                            High_Speed      W14
+4               IO DIFFIO_RX_B31n                               High_Speed      W12
+4               IO DIFFIO_RX_B31p                               High_Speed      W13
+4               IO DIFFIO_TX_RX_B32n                            High_Speed      R13
+4               IO DIFFIO_TX_RX_B32p                            High_Speed      P13
+4               IO VREFB4N0                                                     AA13
+4               IO                                                              AB14
+4               IO DIFFIO_TX_RX_B33n                            High_Speed      Y13
+4               IO DIFFIO_TX_RX_B33p                            High_Speed      Y14
+4               IO DIFFIO_RX_B34n                               High_Speed      AA14
+4               IO DIFFIO_RX_B34p                               High_Speed      AB15
+4               IO DIFFIO_TX_RX_B35n                            High_Speed      V14
+4               IO DIFFIO_TX_RX_B35p                            High_Speed      W15
+4               IO DIFFIO_RX_B36n                               High_Speed      AA15
+4               IO DIFFIO_RX_B36p                               High_Speed      Y16
+4               IO DIFFIO_TX_RX_B37n                            High_Speed      U15
+4               IO DIFFIO_TX_RX_B37p                            High_Speed      V16
+4               IO DIFFIO_RX_B38n                               High_Speed      AB16
+4               IO DIFFIO_RX_B38p                               High_Speed      AA16
+4               IO DIFFIO_TX_RX_B39n                            High_Speed      AA17
+4               IO DIFFIO_TX_RX_B39p                            High_Speed      Y17
+4               IO DIFFIO_RX_B40n                               High_Speed      AB19
+4               IO DIFFIO_RX_B40p                               High_Speed      AB20
+4               IO DIFFIO_TX_RX_B41n                            High_Speed      V15
+4               IO DIFFIO_TX_RX_B41p                            High_Speed      W16
+4               IO DIFFIO_RX_B42n                               High_Speed      AA19
+4               IO DIFFIO_RX_B42p                               High_Speed      Y18
+4               IO DIFFIO_TX_RX_B45n                            High_Speed      Y19
+4               IO DIFFIO_TX_RX_B45p                            High_Speed      W18
+4               IO DIFFIO_RX_B46n                               High_Speed      AB21
+4               IO DIFFIO_RX_B46p                               High_Speed      AA20
+4               IO PLL_B_CLKOUTn DIFFIO_TX_RX_B49n              High_Speed      W17
+4               IO PLL_B_CLKOUTp DIFFIO_TX_RX_B49p              High_Speed      V17
+4               IO DIFFIO_RX_B50n                               High_Speed      AB17
+4               IO DIFFIO_RX_B50p                               High_Speed      AB18
+                VCCD_PLL4                                                       U16
+                VCCA4                                                           T15
+                VCCIO4                                                          U14
+                VCCIO4                                                          U12
+                VCCIO4                                                          U11
+                VCCIO4                                                          T13
+                VCCIO4                                                          T12
+                GND                                                             AB22
+                GND                                                             AA18
+                GND                                                             U13
+                GND                                                             T16
+                GND                                                             T14
+                GND                                                             Y15
+                GND                                                             Y12
+                GND                                                             U10
+    
+5               IO RUP DIFFIO_RX_R1p                            High_Speed      U18
+5               IO RDN DIFFIO_RX_R1n                            High_Speed      U17
+5               IO DIFFIO_RX_R2p                                High_Speed      AA21
+5               IO DIFFIO_RX_R2n                                High_Speed      AA22
+5               IO DIFFIO_RX_R3p                                High_Speed      V18
+5               IO DIFFIO_RX_R3n                                High_Speed      U19
+5               IO DIFFIO_RX_R4p                                High_Speed      Y22
+5               IO DIFFIO_RX_R4n                                High_Speed      W22
+5               IO DIFFIO_RX_R5p                                High_Speed      W19
+5               IO DIFFIO_RX_R5n                                High_Speed      W20
+5               IO DIFFIO_RX_R6p                                High_Speed      Y20
+5               IO DIFFIO_RX_R6n                                High_Speed      Y21
+5               IO DIFFIO_RX_R7p                                High_Speed      V20
+5               IO DIFFIO_RX_R7n                                High_Speed      U20
+5               IO DIFFIO_RX_R8p                                High_Speed      V21
+5               IO DIFFIO_RX_R8n                                High_Speed      V22
+5               IO DIFFIO_RX_R9p DQ0R(X8)                       High_Speed      R15    
+5               IO DIFFIO_RX_R9n DQ0R(X8)                       High_Speed      R14    
+5               IO DIFFIO_RX_R10p                               High_Speed      T21
+5               IO DIFFIO_RX_R10n                               High_Speed      T22
+5               IO DIFFIO_RX_R11p DQ0R(X8)                      High_Speed      T19    
+5               IO DIFFIO_RX_R11n DM0R(X8)                      High_Speed      T18    
+5               IO DIFFIO_RX_R12p DQ0R(X8)                      High_Speed      T20    
+5               IO DIFFIO_RX_R12n DQ0R(X8)                      High_Speed      R20    
+5               IO DIFFIO_RX_R13p                               High_Speed      U21
+5               IO DIFFIO_RX_R13n                               High_Speed      U22
+5               IO                                                              R22
+5               IO VREFB5N0                                                     P22
+5               IO DIFFIO_RX_R14p DQ0R(X8)                      High_Speed      P15    
+5               IO DIFFIO_RX_R14n DQ0R(X8)                      High_Speed      P14    
+5               IO DIFFIO_RX_R15p                               High_Speed      P21
+5               IO DIFFIO_RX_R15n                               High_Speed      N22
+5               IO DIFFIO_RX_R16p DQS0R(X8)                     High_Speed      R18    
+5               IO DIFFIO_RX_R16n DQSn0R(X8)                    High_Speed      P18    
+5               IO DIFFIO_RX_R17p DQ0R(X8)                      High_Speed      P19    
+5               IO DIFFIO_RX_R17n DQ0R(X8)                      High_Speed      P20    
+5               IO DIFFIO_RX_R18p                               High_Speed      M21
+5               IO DIFFIO_RX_R18n                               High_Speed      L22
+5               IO DIFFIO_RX_R19p                               High_Speed      N21
+5               IO DIFFIO_RX_R19n                               High_Speed      M22
+                VCCIO5                                                          T17
+                VCCIO5                                                          R17
+                VCCIO5                                                          R16
+                VCCIO5                                                          P16
+                VCCIO5                                                          N16
+                GND                                                             W21
+                GND                                                             V19
+                GND                                                             R21
+                GND                                                             R19
+                GND                                                             P17
+    
+6               IO CLK2p DIFFIO_RX_R20p                         High_Speed      N14
+6               IO CLK2n DIFFIO_RX_R20n                         High_Speed      N15
+6               IO DIFFIO_RX_R21p                               High_Speed      H22
+6               IO DIFFIO_RX_R21n                               High_Speed      H21
+6               IO CLK3p DIFFIO_RX_R22p                         High_Speed      K22
+6               IO CLK3n DIFFIO_RX_R22n                         High_Speed      K21
+6               IO DIFFIO_RX_R23p                               High_Speed      J22
+6               IO DIFFIO_RX_R23n                               High_Speed      J21
+6               IO DIFFIO_RX_R24p                               High_Speed      G20
+6               IO DIFFIO_RX_R24n                               High_Speed      G19
+6               IO DIFFIO_RX_R25p                               High_Speed      G22
+6               IO DIFFIO_RX_R25n                               High_Speed      F22
+6               IO DIFFIO_RX_R26p DQ1R(X8) DQ0R(X16)            High_Speed      M15    
+6               IO DIFFIO_RX_R26n DQ1R(X8) DQ0R(X16)            High_Speed      M14    
+6               IO DIFFIO_RX_R27p                               High_Speed      E22
+6               IO DIFFIO_RX_R27n                               High_Speed      E21
+6               IO DIFFIO_RX_R28p DQ1R(X8) DQ0R(X16)            High_Speed      N18    
+6               IO DIFFIO_RX_R28n DM1R(X8) DM0R(X16)            High_Speed      N19    
+6               IO DIFFIO_RX_R29p DQ1R(X8) DQ0R(X16)            High_Speed      M20    
+6               IO DIFFIO_RX_R29n DQ1R(X8) DQ0R(X16)            High_Speed      N20    
+6               IO DIFFIO_RX_R30p                               High_Speed      F21
+6               IO DIFFIO_RX_R30n                               High_Speed      F20
+6               IO DIFFIO_RX_R31p                               High_Speed      D22
+6               IO DIFFIO_RX_R31n                               High_Speed      C22
+6               IO DPCLK3 DIFFIO_RX_R32p DQS1R(X8) DQS0R(X16)   High_Speed      L14    
+6               IO DPCLK2 DIFFIO_RX_R32n DQSn1R(X8) DQSn0R(X16) High_Speed      L15    
+6               IO VREFB6N0                                                     D21
+6               IO                                                              C21
+6               IO DIFFIO_RX_R33p DQ1R(X8) DQ0R(X16)            High_Speed      M18    
+6               IO DIFFIO_RX_R33n DQ1R(X8) DQ0R(X16)            High_Speed      L18    
+6               IO DIFFIO_RX_R34p DQ1R(X8) DQ0R(X16)            High_Speed      L19    
+6               IO DIFFIO_RX_R34n DQ1R(X8) DQ0R(X16)            High_Speed      L20    
+6               IO DIFFIO_RX_R35p                               High_Speed      E19
+6               IO DIFFIO_RX_R35n                               High_Speed      F18
+6               IO DIFFIO_RX_R36p                               High_Speed      F19
+6               IO DIFFIO_RX_R36n                               High_Speed      E20
+6               IO DIFFIO_RX_R37p DQS2R(X8) DQ0R(X16)           High_Speed      K14    
+6               IO DIFFIO_RX_R37n DQSn2R(X8) DQ0R(X16)          High_Speed      K15    
+6               IO DIFFIO_RX_R38p                               High_Speed      C20
+6               IO DIFFIO_RX_R38n                               High_Speed      D19
+6               IO DIFFIO_RX_R39p DQ2R(X8) DQ0R(X16)            High_Speed      K18    
+6               IO DIFFIO_RX_R39n DQ2R(X8) DQ0R(X16)            High_Speed      J18    
+6               IO DIFFIO_RX_R40p DQ2R(X8) DQ0R(X16)            High_Speed      K19    
+6               IO DIFFIO_RX_R40n DQ2R(X8) DQ0R(X16)            High_Speed      K20    
+6               IO DIFFIO_RX_R41p                               High_Speed      F17
+6               IO DIFFIO_RX_R41n                               High_Speed      E17
+6               IO DIFFIO_RX_R42p                               High_Speed      B22
+6               IO DIFFIO_RX_R42n                               High_Speed      B21
+6               IO DIFFIO_RX_R43p DQ2R(X8) DQ0R(X16)            High_Speed      J14    
+6               IO DIFFIO_RX_R43n DM2R(X8) DM0R(X16)            High_Speed      J15    
+6               IO DIFFIO_RX_R44p                               High_Speed      B20
+6               IO DIFFIO_RX_R44n                               High_Speed      A21
+6               IO DIFFIO_RX_R45p DQ2R(X8) DQ0R(X16)            High_Speed      H19    
+6               IO DIFFIO_RX_R45n DQ2R(X8) DQ0R(X16)            High_Speed      H18    
+6               IO DIFFIO_RX_R46p DQ2R(X8) DQ0R(X16)            High_Speed      J20    
+6               IO DIFFIO_RX_R46n DQ2R(X8) DQ0R(X16)            High_Speed      H20    
+6               IO PLL_R_CLKOUTp DIFFIO_RX_R47p                 High_Speed      H17
+6               IO PLL_R_CLKOUTn DIFFIO_RX_R47n                 High_Speed      G17
+6               IO DIFFIO_RX_R48p CK_6(X8) CK_6(X16)            High_Speed      D18    
+6               IO DIFFIO_RX_R48n CK#_6(X8) CK#_6(X16)          High_Speed      E18    
+                VCCIO6                                                          N17
+                VCCIO6                                                          M17
+                VCCIO6                                                          L16
+                VCCIO6                                                          K17
+                VCCIO6                                                          K16
+                VCCIO6                                                          J17
+                VCCIO6                                                          H16
+                VCCA2                                                           H15
+                VCCD_PLL2                                                       G16
+                GND                                                             A22
+                GND                                                             D20
+                GND                                                             G21
+                GND                                                             G15
+                GND                                                             G18
+                GND                                                             J16
+                GND                                                             J19
+                GND                                                             L13
+                GND                                                             L17
+                GND                                                             L21
+                GND                                                             M10
+                GND                                                             M16
+                GND                                                             M19
+                GND                                                             N13
+                VCC                                                             M11
+                VCC                                                             M12
+                VCC                                                             M13
+
+7               IO DIFFIO_RX_T1p                            High_Speed      E16
+7               IO DIFFIO_RX_T1n                            High_Speed      E15
+7               IO DIFFIO_RX_T2p                            High_Speed      D17
+7               IO DIFFIO_RX_T2n                            High_Speed      C17
+7               IO DIFFIO_RX_T5p                            High_Speed      F16
+7               IO DIFFIO_RX_T5n                            High_Speed      F15
+7               IO DIFFIO_RX_T6p                            High_Speed      C19
+7               IO DIFFIO_RX_T6n                            High_Speed      B19
+7               IO DIFFIO_RX_T7p                            High_Speed      C18
+7               IO DIFFIO_RX_T7n                            High_Speed      B17
+7               IO DIFFIO_RX_T8p                            High_Speed      A20
+7               IO DIFFIO_RX_T8n                            High_Speed      A19
+7               IO DIFFIO_RX_T9p                            High_Speed      D15
+7               IO DIFFIO_RX_T9n                            High_Speed      E14
+7               IO DIFFIO_RX_T10p                           High_Speed      A18
+7               IO DIFFIO_RX_T10n                           High_Speed      A17
+7               IO DIFFIO_RX_T15p                           High_Speed      C16
+7               IO DIFFIO_RX_T15n                           High_Speed      C15
+7               IO DIFFIO_RX_T16p                           High_Speed      B16
+7               IO DIFFIO_RX_T16n                           High_Speed      A16
+7               IO DIFFIO_RX_T17p                           High_Speed      H14
+7               IO DIFFIO_RX_T17n                           High_Speed      J13
+7               IO                                                          A15
+7               IO VREFB7N0                                                 B15
+7               IO DIFFIO_RX_T18p                           High_Speed      C14
+7               IO DIFFIO_RX_T18n                           High_Speed      C13
+7               IO DIFFIO_RX_T19p                           High_Speed      A14
+7               IO DIFFIO_RX_T19n                           High_Speed      B14
+7               IO DIFFIO_RX_T20p                           High_Speed      D14
+7               IO DIFFIO_RX_T20n                           High_Speed      E13
+7               IO DIFFIO_RX_T21p                           High_Speed      E12
+7               IO DIFFIO_RX_T21n                           High_Speed      D13
+7               IO DIFFIO_RX_T22p                           High_Speed      H13
+7               IO DIFFIO_RX_T22n                           High_Speed      J12
+7               IO DIFFIO_RX_T23p                           High_Speed      A13
+7               IO DIFFIO_RX_T23n                           High_Speed      A12
+7               IO DIFFIO_RX_T24p                           High_Speed      C12
+7               IO DIFFIO_RX_T24n                           High_Speed      D12
+7               IO DIFFIO_RX_T25p                           High_Speed      A11
+7               IO DIFFIO_RX_T25n                           High_Speed      A10
+7               IO DIFFIO_RX_T26p                           High_Speed      C11
+7               IO DIFFIO_RX_T26n                           High_Speed      C10
+7               IO DIFFIO_RX_T27p                           High_Speed      B12
+7               IO DIFFIO_RX_T27n                           High_Speed      B11
+7               IO DIFFIO_RX_T28p                           High_Speed      H12
+7               IO DIFFIO_RX_T28n                           High_Speed      J11
+7               IO DIFFIO_RX_T29p                           High_Speed      A7
+7               IO DIFFIO_RX_T29n                           High_Speed      A8
+7               IO DIFFIO_RX_T30p                           High_Speed      B10
+7               IO DIFFIO_RX_T30n                           High_Speed      C9
+7               IO DIFFIO_RX_T31p                           High_Speed      A9
+7               IO DIFFIO_RX_T31n                           High_Speed      B8
+                VCCIO7                                                      G14
+                VCCIO7                                                      G13
+                VCCIO7                                                      G12
+                VCCIO7                                                      F14
+                VCCIO7                                                      F12
+                GND                                                         B18
+                GND                                                         D16
+                GND                                                         D11
+                GND                                                         F13
+                GND                                                         B9
+                GND                                                         B13
+8               IO CLK4p DIFFIO_RX_T32p                     Low_Speed       E11
+8               IO CLK4n DIFFIO_RX_T32n                     Low_Speed       E10
+8               IO DIFFIO_RX_T33p                           Low_Speed       C8
+8               IO DIFFIO_RX_T33n                           Low_Speed       C7
+8               IO CLK5p DIFFIO_RX_T34p                     Low_Speed       J10
+8               IO CLK5n DIFFIO_RX_T34n                     Low_Speed       H11
+8               IO DIFFIO_RX_T35p                           Low_Speed       B7
+8               IO DIFFIO_RX_T35n                           Low_Speed       A6
+8               IO DIFFIO_RX_T36p                           Low_Speed       D8
+8               IO DEV_CLRn DIFFIO_RX_T36n                  Low_Speed       D9
+8               IO DIFFIO_RX_T37p                           Low_Speed       A5
+8               IO DIFFIO_RX_T37n                           Low_Speed       A4
+8               IO DEV_OE DIFFIO_RX_T38p                    Low_Speed       D10
+8               IO DIFFIO_RX_T38n                           Low_Speed       E9
+8               IO                                                          C6
+8               IO VREFB8N0                                                 D7
+8               IO CONFIG_SEL                                               H10
+8               IO DIFFIO_RX_T39p                           Low_Speed       A2
+8               IO DIFFIO_RX_T39n                           Low_Speed       A3
+8               Input_only nCONFIG                                          H9
+8               IO DIFFIO_RX_T40p                           Low_Speed       B3
+8               IO DIFFIO_RX_T40n                           Low_Speed       B4
+8               IO DIFFIO_RX_T41p                           Low_Speed       B5
+8               IO DIFFIO_RX_T41n                           Low_Speed       C4
+8               IO DIFFIO_RX_T42p                           Low_Speed       E8
+8               IO CRC_ERROR DIFFIO_RX_T42n                 Low_Speed       F7
+8               IO DIFFIO_RX_T43p                           Low_Speed       C5
+8               IO DIFFIO_RX_T43n                           Low_Speed       D5
+8               IO nSTATUS DIFFIO_RX_T44p                   Low_Speed       G9
+8               IO CONF_DONE DIFFIO_RX_T44n                 Low_Speed       F8
+8               IO DIFFIO_RX_T45p                           Low_Speed       B2
+8               IO DIFFIO_RX_T45n                           Low_Speed       B1
+8               IO PLL_T_CLKOUTp DIFFIO_RX_T46p             Low_Speed       D6
+8               IO PLL_T_CLKOUTn DIFFIO_RX_T46n             Low_Speed       E6
+8               IO DIFFIO_RX_T47p                           Low_Speed       C3
+8               IO DIFFIO_RX_T47n                           Low_Speed       C2
+                GND                                                         G8
+                GND                                                         G6
+                GND                                                         F10
+                GND                                                         E7
+                GND                                                         B6
+                GND                                                         A1
+                REFGND                                                      H5
+                VCC                                                         K11
+                VCCD_PLL3                                                   G7
+                VCCIO8                                                      G11
+                VCCIO8                                                      G10
+                VCCIO8                                                      F9
+                VCCIO8                                                      F11
+                NC                                                          L3
+                NC                                                          F6
+                NC                                                          E5
+                VCCA3                                                       H8
+                VCCA_ADC                                                    H7
+                ADC_VREF                                                    H6
+                ANAIN1                                                      G5
+
